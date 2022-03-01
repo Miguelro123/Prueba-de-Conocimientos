@@ -33,7 +33,7 @@
 07. ¿Qué es mutable e inmutable?
 <details>
   <summary>See answer</summary>
-  .
+  Los tipos de datos mutables son todos aquellos a los que es posible cambiar, modificar o actualizar su contenido. Los objetos mutables más comunes son las listas, diccionarios y conjuntos que sirven para guardar colecciones de datos. Tomado de: https://codingornot.com/03-python-tipos-de-datos-mutables-listas No es posible cambiar, modificar o actualizar el contenido a un tipo de dato inmutable, aunque como en cualquier variable sí es posible asignarle un nuevo valor. Tomado de: https://codingornot.com/02-python-tipos-de-datos-inmutables
 </details>
 08. ¿Cuál es el significado de sobrescribir un método en Programación Orientada a Objetos?
 <details>
