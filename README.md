@@ -23,7 +23,7 @@
 05. ¿Cuál es la diferencia entre una clase y un “objeto o instancia”?
 <details>
   <summary>See answer</summary>
-  .
+  Una clase es una estructura de programación definida por el usuario mientras que un objeto es un tipo de dato que surge a partir de la clase de programación. Tomado de: https://ellibrodepython.com/programacion-orientada-a-objetos-python
 </details>
 06. ¿Explique cómo funciona lo siguiente: res.file ? jumpLis() : sap()
 <details>
