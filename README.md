@@ -101,32 +101,33 @@ Los shells incorporan un lenguaje de programación para controlar procesos y arc
 19. ¿Nombre una alternativa de software a Haproxy como balanceador de carga?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  Una alternativa podria ser <b>HAProxy</b> es un balanceador de cargas TCP/HTTP gratuito.
 </details>
 20. ¿Explique cuál es el papel principal de un balanceador de carga?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  El papel principal de un balanceador es permitir que el sitio web que administremos esté siempre disponible, y sea capaz de servir todas las peticiones a la máxima velocidad posible.
 </details>
 21. ¿Qué es Nginx?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  Nginx es un servidor web de código abierto, ahora también es usado como proxy inverso, cache de HTTP, y balanceador de carga.
 </details>
 22. ¿Cuál es la diferencia entre una cola y una pila?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  La pila solo tiene un extremo abierto para empujar y hacer estallar los elementos de datos en la otra parte. 
+  La cola tiene ambos extremos abiertos para encolar y sacar en cola los elementos de datos
 </details>
 23. Graphql en sus palabras que ventajas tiene?, y si hablamos de Angular o React con graphql que librerías a manejado, y si hablamos de backend que librerías a manejado?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  No lo sé.
 </details>
 24. Usted prefiere usar API REST o GRAPHQL y porque?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  Diria que API Rest porque la e manejado la otra aun no la he utilizado.
 </details>
 25. Solo si ya tiene experiencia en Graphql conteste: como obligar la recarga de la cache de graphql sin usar un refresh?
 <details>
@@ -141,12 +142,12 @@ Los shells incorporan un lenguaje de programación para controlar procesos y arc
 27. Que es un observable?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  No relaciono la palabra.
 </details>
 28. Que es un BehaviorSubject?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  Desconozco la palabra.
 </details>
 29. Nombre que Bases de Datos SQL y No-SQL a manejado? Y su auto calificación para cada una de ellas, como ejemplo: mariadb-Basico, Dynamo-Experto etc.
 <details>
