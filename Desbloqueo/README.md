@@ -1,3 +1,5 @@
+# Ejercicio de desbloqueo
+
 Tienes n número de cajas cerradas frente a ti.
 Cada caja está numerada secuencialmente de 0 a “n – 1” y cada cuadro puede contener
 claves a las otras cajas.
