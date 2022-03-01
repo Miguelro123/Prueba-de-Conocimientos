@@ -8,7 +8,7 @@
 02. ¿Qué pasa cuando escribes? `gcc main.c`
 <details>
   <summary>See answer</summary>
-  .
+  Colección de compiladores GNU (GCC): .
 </details>
 03. ¿Cuál es el propósito de 'if __name__ '==' __main __ ': `en Python?
 <details>
