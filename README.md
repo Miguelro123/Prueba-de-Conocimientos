@@ -96,7 +96,7 @@ Los shells incorporan un lenguaje de programación para controlar procesos y arc
 18. ¿Cuáles son las palabras clave para cambiar el nombre de una columna durante una consulta SQL?
 <details>
   <summary>Ver respuesta</summary>
-  .
+  Creo que es As, no estoy seguro.
 </details>
 19. ¿Nombre una alternativa de software a Haproxy como balanceador de carga?
 <details>
