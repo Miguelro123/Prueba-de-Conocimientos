@@ -10,15 +10,15 @@
   <summary>See answer</summary>
   Este comando ejecuta cuatro pasos, estos son: Preprocesador (Elimina todos los comentarios del código e  incluirá códigos de archivo de encabezado), Compilador (Traduce el código fuente a un código ensamblador), Ensamblador (Convierte el código ensamblador en código binario) y Enlazador (Vincula las bibliotecas que tiene el código). El comando gcc siempre ejecuta el archivo en ese orden. Tomado de: https://selimbarbirou.medium.com/gcc-main-c-what-does-it-do-c090e5cbf793
 </details>
-03. ¿Cuál es el propósito de 'if __name__ '==' __main __ ': `en Python?
+03. ¿Cuál es el propósito de 'if __name__ '==' __main __ ': en Python?
 <details>
   <summary>See answer</summary>
-  .
+  Este condicional se usa para comprobar si un módulo de python está siendo ejecutado directamente o está siendo importado. Tomado de: https://ellibrodepython.com/modulos-python#m%C3%B3dulos-y-funci%C3%B3n-main
 </details>
 04. ¿En Python, Que es el metodo `__init__` ?
 <details>
   <summary>See answer</summary>
-  .
+  El objetivo fundamental del método __init__ es inicializar los atributos del objeto que creamos. Tomado de: https://ellibrodepython.com/programacion-orientada-a-objetos-python#definiendo-atributos
 </details>
 05. ¿Cuál es la diferencia entre una clase y un “objeto o instancia”?
 <details>
