@@ -1,4 +1,4 @@
-# Prueba-de-Conocimientos :page_with_curl:
+# Prueba-de-Conocimientos :memo:
 ---
 01. ¿Quién creó el lenguaje de programación de Python?
 <details>
