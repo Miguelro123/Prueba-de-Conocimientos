@@ -129,12 +129,12 @@ Un terminal se refiere a un programa contenedor que ejecuta un shell. Hace déca
 25. Solo si ya tiene experiencia en Graphql conteste: como obligar la recarga de la cache de graphql sin usar un refresh?
 <details>
   <summary>See answer</summary>
-  .
+  Aun no tengo experiencia en Graphql.
 </details>
 26. A trabajado con RJSX? Y si lo a echo para que es esta librería?
 <details>
   <summary>See answer</summary>
-  .
+  No he trabajado aun con RJSX.
 </details>
 27. Que es un observable?
 <details>
