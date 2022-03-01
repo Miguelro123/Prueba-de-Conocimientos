@@ -8,7 +8,7 @@
 02. ¿Qué pasa cuando escribes? `gcc main.c`
 <details>
   <summary>See answer</summary>
-  Colección de compiladores GNU (GCC): .
+  Este comando ejecuta cuatro pasos, estos son: preprocesamiento, compilación propiamente dicha, ensamblaje y enlace. El comando gcc siempre ejecuta el archivo en ese orden.
 </details>
 03. ¿Cuál es el propósito de 'if __name__ '==' __main __ ': `en Python?
 <details>
