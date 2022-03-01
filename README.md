@@ -81,8 +81,11 @@ Los shells incorporan un lenguaje de programación para controlar procesos y arc
 <details>
   <summary>Ver respuesta</summary>
   Un puntero es una variable que almacena la dirección de memoria de un objeto . Los punteros se usan ampliamente en C y C++ para tres propósitos principales:
+  
 * para asignar nuevos objetos en el montón,
+  
 * para pasar funciones a otras funciones
+  
 * para recorrer en iteración los elementos de matrices u otras estructuras de datos.
 </details>
 17. ¿Cuál es la diferencia entre los módulos y los paquetes en Python?
